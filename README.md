@@ -1,7 +1,7 @@
-### <div align="center">I'm LovelyFoshou, a developer, like a silly bee.</div>  
+### <div align="center">I'm LovelyFoshou, a developer.</div>  
   
 
-- 🔭 I’m currently working on [CutePixels](https://github.com/CutePixels).  
+- 🔭 I’m currently working on IntelliJ IDEA.  
   
 
 - 🌱 I’m currently learning some languages.  
@@ -32,8 +32,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/LovelyFoshou" target="_blank">
-<img src="https://img.shields.io/badge/bilibili-%2300acee.svg?&style=for-the-badge&logo=bilibili&logoColor=blue" alt="bilibili" style="margin-bottom: 5px;" />
+<a href="https://space.bilibili.com/521323978" target="_blank">
+<img src="https://img.shields.io/badge/bilibili-%2310acee.svg?&style=for-the-badge&logo=bilibili&logoColor=blue" alt="bilibili" style="margin-bottom: 5px;" />
+</a>  
+  <a href="https://discord.gg/w473CyZbCN" target="_blank">
+<img src="https://img.shields.io/badge/discord-%2300caee.svg?&style=for-the-badge&logo=discord&logoColor=blue" alt="discord" style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -55,9 +58,8 @@
   
 
 <br/>  
-
 <div align="center">
-            <a href="https://afdian.net/a/LovelyFoshou" target="_blank" style="display: inline-block;">
+<a href="https://afdian.net/a/LovelyFoshou">
                 <img
                     src="https://img.shields.io/badge/Donate-爱发电-%232E87FB.svg?style=flat-square&logo=afdian" 
                     align="center"
